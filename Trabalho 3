@@ -1,0 +1,15 @@
+1 – Explique as diferenças entre 3 linguagens de programação:
+R: Começando pelo PHP, trata-se de uma linguagem de programação voltada para o desenvolvimento web com foco no back-end. É amplamente utilizada em sites dinâmicos e em e-commerce. 
+Trata-se de uma linguagem de fácil aprendizado e muito utilizada em projetos de pequeno e médio porte. Algumas aplicações e plataformas que utilizam PHP são o WordPress, Facebook,
+Slack e até mesmo a Tesla. Já o JavaScript é utilizado no front-end, ou seja, para o desenvolvimento de interfaces gráficas de usuários (UI). Em navegadores web, essa linguagem 
+complementa as tecnologias HTML e CSS, deixando as páginas web mais dinâmicas. O JavaScript é uma linguagem muito bem desenvolvida, com diversos frameworks disponíveis, 
+como o Vue.js e o Angular. É utilizada em empresas como Google, Twitter e Facebook. O Python, por sua vez, é uma linguagem de alto nível que vai desde o desenvolvimento web até áreas 
+como data science e inteligência artificial. É reconhecida por sua facilidade de aprendizado e leitura, o que a torna ideal para grandes projetos. Além disso, é uma ótima opção 
+para projetos de IoT. Algumas aplicações que utilizam Python são o Instagram, Dropbox e YouTube.
+
+a. Tente fazer um código mínimo em cada uma delas. 
+Python: print("Olá, mundo!")
+JavaScript: console.log("Olá, mundo!");
+PHP: <?php
+echo "Olá, mundo!";
+?>
