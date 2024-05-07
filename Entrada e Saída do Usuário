@@ -1,0 +1,15 @@
+print ("Olá", "terra", sep= "-")
+print ("Olá", "Python", end= "!\n")
+print ("24", "04", "2024", sep= "/")
+print ("julia", "cardoso"
+."juliacardoso@gmail.com, sep=-*)
+print
+("Loading", end=" ")
+prant
+(" [OK]")
+nome = input ("Entre com o seu nome:
+print ("Olá", nome)
+itens = input
+("Digite itens separados por virgula: ().split("9)
+print ("Itens:",
+itens)
